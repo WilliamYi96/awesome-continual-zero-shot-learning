@@ -7,7 +7,7 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 ## Table of Contents
 + [Papers](#Papers)
 + [Datasets](#Datasets)
-+ [Starter code for ZSL](#Starter-Code)
++ [Starter code for CZSL](#Starter-Code)
 + [Other Resources](#Other-resources)
 
 ### Papers
@@ -23,3 +23,8 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 ### Other Resources
 
 ## License
+License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Kai Yi](kaiyi.me) has waived all copyright and related or neighboring rights to this work.
