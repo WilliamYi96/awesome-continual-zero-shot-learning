@@ -15,7 +15,8 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 + Ivan Skorokhodov, Mohamed Elhoseiny. "Class Normalization for Zero-Shot Learning". ICLR (2021). [[page]](https://openreview.net/forum?id=7pgFL2Dkyyy)
 #### IJCAI 2020
 + Kun Wei , Cheng Deng, Xu Yang. "Lifelong Zero-Shot Learning". IJCAI (2020). [[pdf]](https://www.ijcai.org/Proceedings/2020/0077.pdf)
-
+#### ICLR 2019
++ Arslan Chaudhry, Marc’Aurelio Ranzato, Marcus Rohrbach, Mohamed Elhoseiny. "Efficient Lifelong Learning with A-GEM". ICLR (2019). [[paper]](https://openreview.net/forum?id=Hkf2_sC5FX) [[code]](https://github.com/facebookresearch/agem)
 ### Datasets
 
 ### Starter Code
