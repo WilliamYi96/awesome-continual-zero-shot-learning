@@ -19,8 +19,8 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 #### ICLR 2019
 + **A-GEM** Arslan Chaudhry, Marc’Aurelio Ranzato, Marcus Rohrbach, Mohamed Elhoseiny. "Efficient Lifelong Learning with A-GEM". ICLR (2019). [[paper]](https://openreview.net/forum?id=Hkf2_sC5FX) [[code]](https://github.com/facebookresearch/agem)
 ### Datasets
-+ **CN-ZSL CUB** 200 classes randomly split into 10 tasks with 20 classes per task [[data]](https://github.com/universome/class-norm-for-czsl)
-+ **CN-ZSL SUN** 717 classes randomly split into 15 tasks, the first 3 tasks have 47 classes and the rest of them have 48 classes each  [[data]](https://github.com/universome/class-norm-for-czsl)
++ **CN-ZSL CUB**: 200 classes randomly split into 10 tasks with 20 classes per task [[data]](https://github.com/universome/class-norm-for-czsl)
++ **CN-ZSL SUN**: 717 classes randomly split into 15 tasks, the first 3 tasks have 47 classes and the rest of them have 48 classes each  [[data]](https://github.com/universome/class-norm-for-czsl)
 
 ### Starter Code
 
