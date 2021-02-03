@@ -12,12 +12,15 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 
 ### Papers
 #### ICLR 2021
-+ Ivan Skorokhodov, Mohamed Elhoseiny. "Class Normalization for Zero-Shot Learning". ICLR (2021). [[page]](https://openreview.net/forum?id=7pgFL2Dkyyy)
++ **CN-ZSL**: Ivan Skorokhodov, Mohamed Elhoseiny. "Class Normalization for Zero-Shot Learning". ICLR (2021). [[page]](https://openreview.net/forum?id=7pgFL2Dkyyy) [[code]](https://github.com/universome/class-norm-for-czsl)
+
 #### IJCAI 2020
-+ Kun Wei , Cheng Deng, Xu Yang. "Lifelong Zero-Shot Learning". IJCAI (2020). [[pdf]](https://www.ijcai.org/Proceedings/2020/0077.pdf)
++ **LZSL** Kun Wei , Cheng Deng, Xu Yang. "Lifelong Zero-Shot Learning". IJCAI (2020). [[pdf]](https://www.ijcai.org/Proceedings/2020/0077.pdf)
 #### ICLR 2019
-+ Arslan Chaudhry, Marc’Aurelio Ranzato, Marcus Rohrbach, Mohamed Elhoseiny. "Efficient Lifelong Learning with A-GEM". ICLR (2019). [[paper]](https://openreview.net/forum?id=Hkf2_sC5FX) [[code]](https://github.com/facebookresearch/agem)
++ **A-GEM** Arslan Chaudhry, Marc’Aurelio Ranzato, Marcus Rohrbach, Mohamed Elhoseiny. "Efficient Lifelong Learning with A-GEM". ICLR (2019). [[paper]](https://openreview.net/forum?id=Hkf2_sC5FX) [[code]](https://github.com/facebookresearch/agem)
 ### Datasets
++ **CN-ZSL CUB** 200 classes randomly split into 10 tasks with 20 classes per task [[data]](https://github.com/universome/class-norm-for-czsl)
++ **CN-ZSL SUN** 717 classes randomly split into 15 tasks, the first 3 tasks have 47 classes and the rest of them have 48 classes each  [[data]](https://github.com/universome/class-norm-for-czsl)
 
 ### Starter Code
 
