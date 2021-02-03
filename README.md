@@ -23,6 +23,7 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 + **CN-ZSL SUN**: 717 classes randomly split into 15 tasks, the first 3 tasks have 47 classes and the rest of them have 48 classes each.  [[data]](https://github.com/universome/class-norm-for-czsl)
 + **A-GEM Split CUB**: 200 classes split into 20 disjoint subsets of classes.
 + **A-GEM Split AWA**: 50 animal categories, where each task is constructed by sampling 5 classes *with* replacement from the total 50 classes, constructing 20 tasks.
++ **LZSL**: Sequential training on aPY, AWA1, CUB and SUN seen classes, then evaluate on unseen classes.
 
 ### Starter Code
 
