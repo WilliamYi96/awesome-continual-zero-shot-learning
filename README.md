@@ -11,6 +11,9 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 + [Other Resources](#Other-resources)
 
 ### Papers
+#### Selected arXiv
++ **MCZSL**: Vinay Kumar Verma, Kevin Liang, Nikhil Mehta, Lawrence Carin. Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning. arXiv (2021). [[arXiv]](https://arxiv.org/abs/2102.11856)
+
 #### ICLR 2021
 + **CN-ZSL**: Ivan Skorokhodov, Mohamed Elhoseiny. "Class Normalization for Zero-Shot Learning". ICLR (2021). [[page]](https://openreview.net/forum?id=7pgFL2Dkyyy) [[code]](https://github.com/universome/class-norm-for-czsl)
 
