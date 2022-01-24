@@ -16,6 +16,10 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 + **MCZSL**: Vinay Kumar Verma, Kevin Liang, Nikhil Mehta, Lawrence Carin. Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning. arXiv (2021). [[arXiv]](https://arxiv.org/abs/2102.11856)
 + Generalized Continual Zero-Shot Learning / Generative Replay-based Continual Zero-Shot Learning. Chandan Gautam, Sethupathy Parameswaran, Ashish Mishra, Suresh Sundaram. [[paper1]](https://arxiv.org/abs/2011.08508) [[paper2]](https://arxiv.org/abs/2101.08894)
 
+#### CVPR Continual Learning Workshop 2021
+
++ **Ghost**: Arthur Douillard, Eduardo Valle, Charles Ollion, Thomas Robert, Matthieu Cord. "Insights from the Future for Continual Learning", CVPR Continual Learning Workshop 2021, [[arxiv](https://arxiv.org/abs/2006.13748)] [[code](https://github.com/arthurdouillard/incremental_learning.pytorch)]
+
 #### ICLR 2021
 + **CN-ZSL**: Ivan Skorokhodov, Mohamed Elhoseiny. "Class Normalization for Zero-Shot Learning". ICLR (2021). [[page]](https://openreview.net/forum?id=7pgFL2Dkyyy) [[code]](https://github.com/universome/class-norm-for-czsl)
 
@@ -31,6 +35,8 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 + **LZSL**: Sequential training on aPY, AWA1, CUB and SUN seen classes, then evaluate on unseen classes.
 
 ### Starter Code
+
+- [Arthur Douillard's IncLearn](https://github.com/arthurdouillard/incremental_learning.pytorch) to do Continual Zeroshot on AwA2, APY, CUB200, and LAD.
 
 ### Other Resources
 
