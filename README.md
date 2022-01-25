@@ -12,6 +12,7 @@ Please feel free to send me [pull requests](https://github.com/WilliamYi96/aweso
 
 ### Papers
 #### Selected arXiv
++ **DACZSL**: Domain-Aware Continual Zero-Shot Learning. Kai Yi, Mohamed Elhoseiny. [[paper]](https://arxiv.org/abs/2112.12989)    
 + **DVGR**: Dynamic VAEs with Generative Replay for Continual Zero-shot Learning. Subhankar Ghosh. [[paper]](https://arxiv.org/abs/2104.12468) [[code]](https://github.com/DVGR-CZSL/DVGR-CZSL)
 + **MCZSL**: Vinay Kumar Verma, Kevin Liang, Nikhil Mehta, Lawrence Carin. Meta-Learned Attribute Self-Gating for Continual Generalized Zero-Shot Learning. arXiv (2021). [[arXiv]](https://arxiv.org/abs/2102.11856)
 + Generalized Continual Zero-Shot Learning / Generative Replay-based Continual Zero-Shot Learning. Chandan Gautam, Sethupathy Parameswaran, Ashish Mishra, Suresh Sundaram. [[paper1]](https://arxiv.org/abs/2011.08508) [[paper2]](https://arxiv.org/abs/2101.08894)
